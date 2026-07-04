@@ -1,5 +1,5 @@
-import { PluginClass } from 'ultimate-crosscode-typedefs/modloader/mod'
-import { Mod1 } from 'ccmodmanager/types/types'
+import type { PluginClass } from 'ultimate-crosscode-typedefs/modloader/mod'
+import type { Mod1 } from 'ccmodmanager/types/types'
 import ccmod from '../ccmod.json'
 import { injectBgmCrossover } from './bgm-crossover'
 
